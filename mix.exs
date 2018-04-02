@@ -15,7 +15,7 @@ defmodule Yexdl.MixProject do
 
   def package do
     [
-      name: :google_books,
+      name: :yexdl,
       files: ["lib", "mix.exs"],
       maintainers: ["Dung Nguyen"],
       licenses: ["MIT"],
