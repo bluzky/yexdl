@@ -1,6 +1,8 @@
 # Yexdl
 
-**TODO: Add description**
+
+> Yexdl is a simple library that help you to get direct mp4 video link from youtube video
+> It's a small module so you can just copy and use in your project without install this whole package
 
 ## Installation
 
